@@ -21,7 +21,7 @@
 
 ### Links
 
-- Live Site URL: 
+- Live Site URL: https://aidenm99.github.io/Menu/
 
 ## My process
 
@@ -83,9 +83,6 @@ function addMenuItems(menu) {
     return values;
   }, ['all']);
 ```
-
-
-
 
 ### Continued development
 
